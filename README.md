@@ -3,8 +3,8 @@
 <p><strong>Busco a melhoria constante da saúde do código através de metodologias como Clean Code, Arquitetura limpa, SOLID e Design Patterns.</strong></p>
 
 <ul>
-	<li>&nbsp;26 Anos.</li>
-	<li>&nbsp;Cursando Ci&ecirc;ncia da Computa&ccedil;&atilde;o.</li>
+	<li>&nbsp;28 Anos.</li>
+	<li>&nbsp;Bacharel em Ci&ecirc;ncia da Computa&ccedil;&atilde;o.</li>
 </ul>
 
 ##
